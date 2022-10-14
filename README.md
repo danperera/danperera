@@ -1,4 +1,7 @@
-## Hello World! 😁
+- 👋 Hi, I’m Dan | FullStack Student.
+- 👀 I'm interested in HTML5, CSS3, javaScript, mongoDB, expressJS, reactJS, nodeJS.
+- 🌱 I’m currently learning javaScript.
+- 📫 reach me at www.instagram.com/danielperera
 
  <div>
    <a href="https://github.com/danperera">
